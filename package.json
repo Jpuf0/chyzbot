@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "chyzbot",
+  "version": "1.0.0",
+  "description": "hivemind like bot",
+  "main": "index.js",
+  "author": "Jpuf",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "leeks.js": "^0.2.1"
+  }
+}
